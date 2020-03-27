@@ -1,0 +1,23 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    background-color: chocolate;
+    text-align: center;
+    color: brown;
+}
+.container
+{
+    margin-left:50px;
+    margin-top:80px;
+    
+}
+.s
+{
+margin-top:100px;
+margin-bottom:100px;
+}
+h2{
+    margin-left: 10px;
+    color: brown;
+}
