@@ -1,2 +1,1 @@
-# backend_assignment
-initial draft of assignment
+# Simple Library Management System
